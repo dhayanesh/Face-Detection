@@ -1,2 +1,2 @@
 # Face-Detection
-Code for Face Detection project in Python!
+Code for Face Detection in Python!
